@@ -1,5 +1,5 @@
 const { Telegraf, Markup } = require('telegraf');
-const bot = new Telegraf('YOUR_BOT_TOKEN');
+const bot = new Telegraf('8143614090:AAEe-68L_ByOlHgYcaeJvUDr79g8E6GP1Iw');
 
 const CHANNEL_ID = '@x_crypto_1';
 const CHANNEL_LINK = 'https://t.me/x_crypto_1';
