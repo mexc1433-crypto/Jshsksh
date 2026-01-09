@@ -1,0 +1,1 @@
+{"name":"alioun-tutor-bot","version":"4.6.1","main":"bot.js","dependencies":{"telegraf":"^4.12.2"},"scripts":{"start":"node bot.js"}}
